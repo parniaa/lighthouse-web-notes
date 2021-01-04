@@ -1,5 +1,5 @@
 # Armin's Notes
-# This is an H1 header
+# Git commands H1
 test this
 ### this is an H6 header
 test this as well
