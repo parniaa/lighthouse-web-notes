@@ -1,6 +1,10 @@
 # Armin's Notes
 # Git commands H1
-test this
+
+git add README.md
+git commit -m "msg"
+git push
+
 ### this is an H6 header
 test this as well
 ## Summary 
