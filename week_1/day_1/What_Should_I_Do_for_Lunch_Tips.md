@@ -34,3 +34,19 @@ const whatToDoForLunch = function(hungry, availableTime) {
   }
 };
 ```
+
+convert the strings to numbers -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number#Convert_numeric_strings_to_numbers
+
+
+The array slice method can be used on an array to remove some of initial elements that we do not need.
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+
+### A "library" is a collection of pre-written code. Libraries can be private, but many are packaged up nicely, branded and made publicly available for other developers to use in their own projects.
+
+### * creating new repo in git.
+
+    git init
+
+    git remote add origin <URL>
+    
+
