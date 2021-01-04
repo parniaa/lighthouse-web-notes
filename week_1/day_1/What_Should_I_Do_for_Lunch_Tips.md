@@ -14,6 +14,9 @@ Work on your code iteratively – that means in small pieces.
 
 To help you figure out how to use `hungry` and `availableTime` inside your function, try outputting their values to the Terminal as follows.
 
+### cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 ```
 const whatToDoForLunch = function(hungry, availableTime) {
   if (!hungry) {
