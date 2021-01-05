@@ -41,7 +41,9 @@ convert the strings to numbers -> https://developer.mozilla.org/en-US/docs/Web/J
 The array slice method can be used on an array to remove some of initial elements that we do not need.
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
 
-### A "library" is a collection of pre-written code. Libraries can be private, but many are packaged up nicely, branded and made publicly available for other developers to use in their own projects.
+### A "library" is a collection of pre-written code. Libraries can be private, but many are packaged up nicely, branded and made publicly available for other developers to use i
+
+n their own projects.
 
 ### * creating new repo in git.
 
@@ -49,4 +51,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
     git remote add origin <URL>
     
+* Template Literals on MDN:
 
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+  
