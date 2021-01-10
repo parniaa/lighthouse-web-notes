@@ -9,3 +9,5 @@ This repository contains all of the notes taken by [Armin](https://github.com/pa
 #### Library Module Package
 
 Library: an independent collection of code that can be used by programs (not JS specific) - Module: JS code in a separate file, that can be required by other JS programs - Package: a collection of JS modules, with a package.json, usually published on NPM
+
+### Running the test
